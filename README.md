@@ -3,7 +3,7 @@ This repository showcases a project that integrates IoT functionalities using ES
 
 Features 
 1. Wake on LAN, wake your computer from shutdown state but still connected to power source via ethernet network.
-2. Hardware Monitoring, fetch hardware data such as CPU temperature, memory load, etc from Libre Hardware Monitor remote web server
+2. Hardware Monitoring, retrieve hardware data such as CPU temperature, memory load, etc from Libre Hardware Monitor remote web server
 
 Requirements
 1. Hardware
