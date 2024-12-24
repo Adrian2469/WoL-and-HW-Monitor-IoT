@@ -1,5 +1,5 @@
 # WoL-and-HW-Monitor-IoT
-This repository showcases a project that integrates IoT functionalities using ESP32 or ESP8266, enabling remote Wake-on-LAN (WoL) control and real-time hardware monitoring through the Blynk platform and Libre Hardware Monitor.
+This repository showcases a project that integrates IoT functionalities using ESP32 or ESP8266, enabling remote Wake-on-LAN (WoL) control and real-time hardware monitoring through the Flutter application, Blynk platform and Libre Hardware Monitor.
 
 Features 
 1. Wake on LAN, wake your computer from shutdown state but still connected to power source via ethernet network.
@@ -14,6 +14,7 @@ Requirements
     - Arduino IDE, to program your ESP device
     - Blynk android, to make IoT platform
     - Libre Hardware Monitor, to fetch data.json which contain hardware data from remote web server
+    - Flutter and Android Studio
   
 How it works
 1. Wake-on-LAN:
@@ -24,6 +25,5 @@ How it works
 Future Enhancements
 1. Add encryption for secure data transmission between ESP32 and IoT platform.
 2. Implement alerts for abnormal hardware stats (e.g., high CPU temperature).
-3. Make own IoT platform on Android with Flutter.
 
 Feel free to fork this repository, report issues, or contribute enhancements! 
